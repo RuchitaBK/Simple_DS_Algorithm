@@ -1,2 +1,4 @@
 # Simple_DS_Algorithm
-simple data structure Algorithm .with Java implementation .
+Simple data structure Algorithm .with Java implementation .
+eample 
+Searching and Sorting Algorithm.
