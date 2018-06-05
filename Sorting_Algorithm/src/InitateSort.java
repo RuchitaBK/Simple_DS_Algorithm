@@ -19,6 +19,9 @@ public class InitateSort {
 		case 2:
 			b1.insertionsort();
 			 break;
+		case 3: 
+			b1.selectionsort();
+			break;
 		}
 
 		
